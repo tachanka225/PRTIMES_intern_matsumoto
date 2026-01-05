@@ -16,3 +16,6 @@ portal/tmp
 !/portal/log/.keep
 /portal/tmp
 .vagrant
+benchmarker/benchmarker
+webapp/benchmarker
+.DS_Store
